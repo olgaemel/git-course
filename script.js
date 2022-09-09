@@ -4,4 +4,5 @@ function init() {
 
 window.onclick = init;
 
-console.log("Test2");
+console.log("Test!!!!!");
+alert("hi!");
