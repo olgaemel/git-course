@@ -1,5 +1,7 @@
-function init(){
-document.body.innerHTML = '<h1>Hello from JavaScript</h1>';
+function init() {
+  document.body.innerHTML = "<h1>Hello from JavaScript</h1>";
 }
 
 window.onclick = init;
+
+console.log("Test2");
